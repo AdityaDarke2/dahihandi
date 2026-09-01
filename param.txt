@@ -1,6 +1,2 @@
 Param was here
-<<<<<<< Updated upstream
-;)
-=======
 soham is here.
->>>>>>> Stashed changes
